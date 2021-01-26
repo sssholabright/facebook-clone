@@ -1,0 +1,10 @@
+TECH TO USE FOR BUILDING FACEBOOK CLONE
+
+// React + React HOOKS
+// React context API -> REDUX pattern
+// MATERIAL UI
+// FLEXBOX
+// Firebase's Firestore realtime DB
+// Firebase Hosting
+// Firebase Google Authentication (FULL LOGIN)
+// React flip move
